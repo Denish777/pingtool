@@ -4,10 +4,10 @@ Fungsi?Untuk menstabilkan sinyal.
 How To Install:
 
 </br>pkg update
-pkg upgrade
-pkg install git
-git clone https://github.com/Denish777/pingtool
-ls
-cd pingtool
-ls
-python ping.py
+</br>pkg upgrade
+</br>pkg install git
+</br>git clone https://github.com/Denish777/pingtool
+</br>ls
+</br>cd pingtool
+</br>ls
+</br>python ping.py
