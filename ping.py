@@ -1,13 +1,10 @@
 import os
 banner = """
-
               Speed Internet - Coded By: Mr./K4NC1L5
-==================================================================
-|    Sfx* Ni Tool Cmn Buat Stabilin Sinyal Lo Doang Ya Panteq    |
-|         recommended Buat Maen Game Online Biar Ping Lu Stabil  |
-|                   TTD Admin Gans: Denis.H >;v                  |
-|                        T R I G R E A D                         |
-==================================================================
+        ################################################
+        |        Hanya Untuk Menstabilkan Sinyal       |
+        |             Bukan Menambah Sinyal!           |
+        ################################################
 
 """
 hijau="\033[0;32m"
@@ -19,3 +16,4 @@ input('Tekan Enter Untuk Memulai...')
 
 import os
 os.system ("ping google.com")
+
